@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6482599869447851012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 313500625237827759}
+  - component: {fileID: 3684435033646324392}
+  - component: {fileID: 2942171382528282725}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &313500625237827759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6482599869447851012}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.28100014, y: 10.309, z: 0.90499973}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3684435033646324392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6482599869447851012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d61a72626244549af0fd79e8af7e76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainMixerGroup: {fileID: 24300002, guid: bb9c84c475e4b4fd2abde2238ad813ba, type: 2}
+  sounds:
+  - clip: {fileID: 8300000, guid: 0e647e6c240e7412fb7c5c54e55ac44b, type: 3}
+    source: {fileID: 0}
+    name: Theme
+    volume: 0.04
+    pitch: 1
+    loop: 1
+  - clip: {fileID: 8300000, guid: 9ed9aa9d270694702950bf5c03340de5, type: 3}
+    source: {fileID: 0}
+    name: Engine2
+    volume: 0.05
+    pitch: 1
+    loop: 1
+  - clip: {fileID: 8300000, guid: 017e769ecdae142f290a6e13063b3bda, type: 3}
+    source: {fileID: 0}
+    name: Explosion3
+    volume: 0.04
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: fc090de9b3525483b8eafbd387972827, type: 3}
+    source: {fileID: 0}
+    name: TakeOff
+    volume: 0.02
+    pitch: 1
+    loop: 0
+--- !u!81 &2942171382528282725
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6482599869447851012}
+  m_Enabled: 1

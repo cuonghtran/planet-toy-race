@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: c191431afb6064b14a353edc751d595f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -632853491889003275
+    second: Sounds_0
+  - first:
+      213: 1130153588988794745
+    second: Sounds_1
+  - first:
+      213: 8246826846502454035
+    second: Sounds_2
+  - first:
+      213: -6230434850379426620
+    second: Sounds_3
+  - first:
+      213: -3460152220834751525
+    second: Sounds_4
+  - first:
+      213: -5944970881060653198
+    second: Sounds_5
+  - first:
+      213: 7384961513937561527
+    second: Sounds_6
+  - first:
+      213: -3861888272898008962
+    second: Sounds_7
+  - first:
+      213: -4176526300099349026
+    second: Sounds_8
+  - first:
+      213: 8529059577121664055
+    second: Sounds_9
+  - first:
+      213: -6925812918905959599
+    second: Sounds_10
+  - first:
+      213: -8389710698458560502
+    second: Sounds_11
+  - first:
+      213: -4934058735900810897
+    second: Sounds_12
+  - first:
+      213: -1546145385779202426
+    second: Sounds_13
+  - first:
+      213: -735393375080096810
+    second: Sounds_14
+  - first:
+      213: 4794699522686578700
+    second: Sounds_15
+  - first:
+      213: 1343145097528108806
+    second: Sounds_16
+  - first:
+      213: 7578891154561655700
+    second: Sounds_17
+  - first:
+      213: 4635649440220612757
+    second: Sounds_18
+  - first:
+      213: 7362754388835072598
+    second: Sounds_19
+  - first:
+      213: -7349142970238364867
+    second: Sounds_20
+  - first:
+      213: -8042013492591310111
+    second: Sounds_21
+  - first:
+      213: -3216452793995562573
+    second: Sounds_22
+  - first:
+      213: -6920682180296805276
+    second: Sounds_23
+  - first:
+      213: -8797926327142113004
+    second: Sounds_24
+  - first:
+      213: 1099648713155075697
+    second: Sounds_25
+  - first:
+      213: -5829588602702823623
+    second: Sounds_26
+  - first:
+      213: 3694104538376570123
+    second: Sounds_27
+  - first:
+      213: -4689817058137343509
+    second: Sounds_28
+  - first:
+      213: 5165935089375171925
+    second: Sounds_29
+  - first:
+      213: -1587511331006823950
+    second: Sounds_30
+  - first:
+      213: -2368443126214325935
+    second: Sounds_31
+  - first:
+      213: -2404116503818441881
+    second: Sounds_32
+  - first:
+      213: 6702814060508253237
+    second: Sounds_33
+  - first:
+      213: -8143646808438868058
+    second: Sounds_34
+  - first:
+      213: 1965589240098952409
+    second: Sounds_35
+  - first:
+      213: 1089070408597386567
+    second: Sounds_36
+  - first:
+      213: -6850365402641153105
+    second: Sounds_37
+  - first:
+      213: -2056015976654689334
+    second: Sounds_38
+  - first:
+      213: 1777189210534681946
+    second: Sounds_39
+  - first:
+      213: 2478807782702836822
+    second: Sounds_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sounds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f427152a17a737f0800000000000000
+      internalID: -632853491889003275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sounds_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775f4d83bc1faf00800000000000000
+      internalID: 1130153588988794745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
